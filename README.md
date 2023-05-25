@@ -1,5 +1,5 @@
 # 💫 About Me:
-Eu atualmente estou estudando React Native<br><br>Tenho 16 anos<br><br>Tenho um dominio nas li nguagens(marcação e programação): HTML, CSS, JavaScript e c#.<br><br>Trabalho com bootstrap, Unity e VS code
+Eu atualmente estou estudando React Native<br><br>Tenho 16 anos<br><br>Tenho um dominio nas li nguagens(marcação e programação): HTML, CSS, JavaScript e c#.<br><br>Trabalho com Unity e VS code
 
 
 ## 🌐 Socials:
